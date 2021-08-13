@@ -4,7 +4,7 @@ Grow your own therapy tulip while you surf through the web.
 Download the extension.
 
 # Step 1: Download ZIP
-Download the code for the game
+Download the code for the extension.
 
 # Step 2: Unzip Files
 Unzip the files and move the folder labeled Green-Thumb-master
