@@ -3,7 +3,7 @@ var questions = [
     ["(name), do you feel lonely?", "You can do better than (response)! I know you can."],
     ["Do you need anything (name)?", "Maybe we can get (response) together!"],
     ["I never get enough water. What should I do?", "(response)? Wow! You're smart!"],
-    ["If you ever need anything I'm here", "Yes. Exactly."]
+    ["If you ever need anything I'm here", "Yes. Exactly."],
     ["I was thinking about you (name)! How have you been.", "(response) is always an interesting feeling."],
     ["If you could be anything what would you be?", "(response)s are cool but tulips are cooler!"],
     ["It's hard to go to sleep. Have you been sleeping well?", "I guess we're on the same page!"],
