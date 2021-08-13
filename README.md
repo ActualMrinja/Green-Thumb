@@ -1,7 +1,7 @@
 # Green-Thumb
 Grow your own therapy tulip while you surf through the web.
 
-Download the extension or visit https://actualmrinja.github.io/Green-Thumb/ on-site.
+Download the extension.
 
 # Step 1: Download ZIP
 Download the code for the game
