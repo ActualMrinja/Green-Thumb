@@ -37,7 +37,7 @@ var questions = [
     ["Be good (name).", "Always try your best!"],
     ["Give and take. That's what us plants do!", "You're like us too!"],
     ["People are good at the end of the day (name).", "(response). Is a generalization."],
-    ["What subject are you good at?", "I have a friend who majored in (reponse)!"],
+    ["What subject are you good at?", "I have a friend who majored in (response)!"],
     ["I need to be cheered up.", "Thanks for the advice!"],
     ["What color goes with red?", "You weren't thinking of me weren't you!"],
     ["What did you eat today.", "(response) tastes great doesn't it!"],
